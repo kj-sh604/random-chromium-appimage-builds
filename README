@@ -1,0 +1,15 @@
+You will need to provide a Chromium Snapshot for each .AppDir
+
+Makefile exists for easy building but don't trust it. I don't… yet. It'll get there.
+
+Links for said Chromium Snapshots are referenced in each .AppDir's `usr/bin/README` file. 
+
+Just head to the link, download, and extract.
+
+Run the Makefile with 
+$ make 
+
+(if you're courageous)
+
+
+If you're sane, run each command on each line of the Makefile with caution
